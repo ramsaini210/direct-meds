@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/nt/directmeds.html",
+      "destination": "https://us-medium.site/nt/directmeds.html",
+      "permanent": false
+    }
+  ]
+}
